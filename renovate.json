@@ -1,4 +1,5 @@
-{
+{ 
+  "prhourlylimit": 0,
   "extends": [
     "config:base"
   ]
